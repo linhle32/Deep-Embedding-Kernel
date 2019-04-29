@@ -7,6 +7,8 @@ Main libraries:
 - matplotlib
 - pandas
 
+Update 4/28/2019 -- my paper has been published at https://www.sciencedirect.com/science/article/abs/pii/S0925231219302589
+
 This is the sample code and benchmark for my model Deep Embedding Kernel (DEK). DEK combines the advantages of deep learning and kernel methods in a unifed framework. More specifically, DEK is a learnable kernel represented by a newly designed deep architecture. Compared with predefined kernels, this kernel can be explicitly trained to map data to an optimized high-level feature space where data may have favorable features toward the application. Compared with typical deep learning using SoftMax or
 logistic regression as the top layer, DEK is expected to be more generalizable to new data. Experimental results show that DEK has superior performance than typical machine learning methods in identity detection and classification, and transfer learning, on different types of data including images, sequences, and regularly structured data.
 
